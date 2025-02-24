@@ -24,12 +24,3 @@ This Jupyter notebook provides a comprehensive guide to fine-tuning your own Lla
 ## Usage
 Follow the instructions in the notebook to perform fine-tuning on the Llama 2 model. The notebook includes detailed comments and instructions to guide you through each step.
 
-## Contributing
-Contributions to the notebook are welcome. Please fork the repository, make your changes, and submit a pull request.
-
-## License
-Specify the license under which the notebook is released, ensuring to align with open-source guidelines if applicable.
-
----
-
-This draft assumes you have a repository and licensing in place. Let me know if you need more details or modifications!
